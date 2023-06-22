@@ -22,3 +22,10 @@ If you have time, you can also complete the bonus task. The bonus task is to cre
 ## Submission
 
 To submit your task, please create a fork of this repository and invite bryant@twinestories.com to it when you are done. Please include any information we may need to get your solution running in the README. 
+
+## How to run project
+
+Use the following commands to run the project:
+1. npm install
+2. npm run start
+
